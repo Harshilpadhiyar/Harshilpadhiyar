@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshilpadhiyar
-- 👀 I’m interested in Html, Css.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in Developing Websites And Apps.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me Instgram Id- harshil_padhiyarr
 
 <!---
